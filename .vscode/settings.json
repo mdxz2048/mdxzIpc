@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "lib_mdxz_ipc_socket.h": "c",
+        "uthash.h": "c",
+        "socket.h": "c",
+        "mdxz_common_app_id.h": "c",
+        "error_t.h": "c",
+        "lib_mdxz_ipc.h": "c",
+        "unistd.h": "c",
+        "ctype.h": "c",
+        "mdxz_types.h": "c",
+        "lib_mdxz_ipc_socket_server.h": "c",
+        "pthread.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "errno.h": "c",
+        "ev.h": "c"
+    }
+}
